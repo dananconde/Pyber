@@ -4,4 +4,5 @@
 "\n",
 "You've since been given access to the company's complete recordset of rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.\n"
 "\n"
-"**Noticeable Trends**"
+"**Noticeable Trends** \n"
+"\n"
